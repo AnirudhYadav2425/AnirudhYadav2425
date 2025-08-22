@@ -8,7 +8,8 @@
 - 🎓 B.Tech Graduate
 - 🌱 Currently learning **Spring Boot, Hibernate, React.js**
 - 👨‍💻 Building projects to master **Java Full Stack Development**
-- 💡 Love solving problems and writing clean, efficient code
+- 💡 Love solving problems and writing clean, efficient code<img width="1490" height="708" alt="image" src="https://github.com/user-attachments/assets/6fe04bbc-2263-4e28-bece-20177d7e9a10" />
+
 - 🎯 Goal: Land a Java Developer role within the next few months
 
 ---
