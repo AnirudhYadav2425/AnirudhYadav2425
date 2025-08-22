@@ -22,7 +22,7 @@
 ---
 
 ### 📂 Featured Projects
-- 🔐 **[Online Banking System (Spring Boot + React)](https://github.com/AnirudhYadav2425/online-banking-spring-boot-project)**  
+- 🔐 **[Online Banking System (Spring Boot)](https://github.com/AnirudhYadav2425/online-banking-spring-boot-project)**  
   Secure banking backend with transaction & account modules.
 
 - 🛒 **[HyperCart](https://github.com/AnirudhYadav2425/HyperCart)**  
@@ -38,10 +38,11 @@
 
 ### 📫 Connect With Me
 - 📧 Email: **yanirudh668@gmail.com**
+- 🤳 Phone: +91-6307621061
 - 🔗 [LinkedIn](https://www.linkedin.com/in/anirudh-yadav-6a39b1306/)
 - 💻 [GitHub](https://github.com/AnirudhYadav2425)
 - 🌐 [Portfolio](https://anirudhyadav2425.github.io)
-- 📄 [Resume](https://drive.google.com/file/d/1XB61RjpU989Ln1vuw30LFFRxhPQDsQgu/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1Se2rBQbI1TJ4w8VkBzAH8crp2C3EOjcT/view?usp=sharing)
 
 ---
 
