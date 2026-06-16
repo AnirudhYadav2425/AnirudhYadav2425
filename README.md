@@ -2,8 +2,6 @@
 
 💻 **Java Full Stack Developer | Passionate about building scalable applications**
 
-![Uploading 1724200754502.jpg…]()
-
 
 ### 🚀 About Me
 - 🎓 B.Tech Graduate
