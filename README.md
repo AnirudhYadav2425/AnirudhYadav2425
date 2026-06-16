@@ -44,7 +44,6 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/anirudh-yadav-6a39b1306/)
 - 💻 [GitHub](https://github.com/AnirudhYadav2425)
 - 🌐 [Portfolio](https://anirudhyadav2425.github.io)
-- 📄 [Resume](https://drive.google.com/file/d/1Se2rBQbI1TJ4w8VkBzAH8crp2C3EOjcT/view?usp=sharing)
 
 ---
 
